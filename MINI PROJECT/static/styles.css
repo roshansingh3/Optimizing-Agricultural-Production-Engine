@@ -1,0 +1,10 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('ramkumar-radhakrishnan-wikimedia-1622193304.jpeg');
+  background-size: cover;
+  background-position: center center;
+}
